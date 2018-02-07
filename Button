@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hiperlink</title>
+  </head>
+  <body>
+<ul>
+  <li><button><img src="b.png" alt="Bold"></button></li>
+  <li><button><img src="i.png" alt="Italics"></button></li>
+  <li><button><img src="strike.png" alt="Strike through"></button></li>
+  <li><button><img src="blist.png" alt="Bulleted list"></button></li>
+  <li><button><img src="nlist.png" alt="Numbered list"></button></li>
+</ul>
+<body>
+</HTML>
